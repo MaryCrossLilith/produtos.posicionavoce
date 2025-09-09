@@ -21,6 +21,9 @@ nav {
     position: absolute;
     top: 110px;
     left: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
