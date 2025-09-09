@@ -10,8 +10,10 @@ header {
 }
 
 img {
-    width: 3000px;
-    height: auto;
+   display: block;
+   margin: 30px auto;
+   width: 250px;
+   max-width: 90%;
 }
 
 nav {
