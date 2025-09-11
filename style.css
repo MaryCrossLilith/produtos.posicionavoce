@@ -44,12 +44,7 @@ nav a {
 }
 
 .produtos {
-    margin: 20px;
-    padding: 15px;
-    border-radius: 8px;
-    width: 300px;
-    display: inline-block;
-    vertical-align: top;
+    border-radius: 10px;
     border: 2px solid #000000;
 }
 
