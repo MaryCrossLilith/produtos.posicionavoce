@@ -99,14 +99,7 @@ footer {
     text-align: center;
     width: 100%;
     height: auto;
-    width: 100px; 
-    height: auto;   
-    display: block;
-    margin: 0 auto 10px auto;
-    font-size: 12px; 
-    color: #000000;
-    margin: 0;
-}
+     }
 
 .footerimg {
     width: 100px; 
