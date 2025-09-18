@@ -97,6 +97,8 @@ footer {
     padding: 20px 0;
     background-color: #BBBBBB;
     text-align: center;
+    width: 100%;
+    height: auto;
     width: 100px; 
     height: auto;   
     display: block;
@@ -105,6 +107,8 @@ footer {
     color: #000000;
     margin: 0;
 }
+
+
 
 .copyright {
     color: #FFFFFF;
